@@ -1,4 +1,68 @@
-baseURL: https://lonewolf1304.github.io
-languageCode: en-us
-title: My New Hugo Site
+baseUbaseURL: "https://lonewolf1304.github.io/"
+languageCode: "en-us"
 theme: "PaperMod"
+enableEmoji: true
+Copyright:
+title: "LoneWolf"
+
+mainSections:
+  - Home
+  - About
+  - Notes
+  - Contact
+
+params:
+  hideFooter: false
+  disableScrollToTop: true
+
+  label:
+    icon: "/images/icon.gif"
+    iconHeight: 50
+
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple_touch_icon.png"
+
+  profileMode:
+    enabled: true
+    
+
+    homeInfoParams:
+      Title: "Sagnik"
+
+  socialIcons: # optional
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/sagnik-seth-700863117/"
+    - name: "Github"
+      url: "https://github.com/LoneWolf1304"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Notes
+      url: /notes/
+      weight: 3
+    - name: Contact
+      url: /contact/
+      weight: 4
+
+  # footer:
+
+markup:
+  highlight:
+    noClasses: false
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
