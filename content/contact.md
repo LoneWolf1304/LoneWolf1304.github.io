@@ -1,6 +1,6 @@
 +++
 title = 'Contact Me...'
-draft = true
+draft = false
 +++
 Apart from my LinkedIn and GitHub profile on the home page, you can reach me at: 
 

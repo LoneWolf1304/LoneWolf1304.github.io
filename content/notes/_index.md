@@ -1,7 +1,7 @@
 +++
 title = 'Notes'
 date = 2025-05-29T23:24:38+05:30
-draft = true
+draft = false
 +++
 Well, I am trying to make some notes to understand the topics better. These are some of my personal notes:
 <ul>
