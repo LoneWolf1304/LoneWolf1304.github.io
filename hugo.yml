@@ -2,8 +2,8 @@ baseURL: "https://lonewolf1304.github.io/"
 languageCode: "en-us"
 theme: "PaperMod"
 enableEmoji: true
-Copyright:
 title: "LoneWolf"
+canonifyURLs: true
 
 mainSections:
   - Home
