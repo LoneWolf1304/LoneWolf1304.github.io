@@ -1,4 +1,4 @@
-baseUbaseURL: "https://lonewolf1304.github.io/"
+baseURL: "https://lonewolf1304.github.io/"
 languageCode: "en-us"
 theme: "PaperMod"
 enableEmoji: true
