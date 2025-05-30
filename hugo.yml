@@ -27,6 +27,10 @@ params:
 
   profileMode:
     enabled: true
+    imageUrl: "/images/auto12.png"
+    imageWidth: 300 
+    imageHeight: 300
+    
     
 
     homeInfoParams:
