@@ -1,29 +1,4 @@
-.responsive-positioned-image {
-  position: fixed; /* Stay at the same place even when scrolling */
-  top: 2.5rem;
-  right: 1rem;
-  z-index: 1000;
-}
 
-.responsive-positioned-image img {
-  width: 300px;
-  height: auto;
-  object-fit: contain;
-}
-
-/* Tablet */
-@media (max-width: 991px) {
-  .responsive-positioned-image img {
-    width: 50px;
-  }
-}
-
-/* Mobile */
-@media (max-width: 767px) {
-  .responsive-positioned-image img {
-    width: 40px;
-  }
-}
 
 
 .centered-image {

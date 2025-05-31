@@ -8,3 +8,7 @@ Apart from my LinkedIn and GitHub profile on the home page, you can reach me at:
   <li> <a href="mailto:ss22ms026@iiserkol.ac.in">ss22ms026@iiserkol.ac.in</a></li>
   <li> <a href="mailto:sag123nik456@gmail.com">sag123nik456@gmail.com</a></li>
 </ul>
+
+<div class="centered-image">
+    <img src="/images/contact.png" alt="About image">
+</div>

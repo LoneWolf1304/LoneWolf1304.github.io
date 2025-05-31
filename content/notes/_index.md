@@ -8,6 +8,6 @@ Well, I am trying to make some notes to understand the topics better. These are 
 <a href="https://raw.githubusercontent.com/LoneWolf1304/Notes/main/Tensor%20Analysis/main.pdf" target="_blank" rel="noopener">Tensor Calculus</a>
 </ul>
 
-<div class="responsive-positioned-image">
+<div class="centered-image">
     <img src="/images/hi.png" alt="Description">
 </div>
