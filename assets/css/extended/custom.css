@@ -21,6 +21,18 @@
 /* Mobile */
 @media (max-width: 767px) {
   .responsive-positioned-image img {
-    width: 150px;
+    width: 40px;
   }
+}
+
+
+.centered-image {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.centered-image img {
+  max-width: 400px; /* or whatever you prefer */
+  height: auto;
+  display: inline-block;
 }

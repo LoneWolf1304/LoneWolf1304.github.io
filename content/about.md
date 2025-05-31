@@ -10,3 +10,7 @@ I like to laugh a lot and have watched quite a few comedy series. Few of my favo
 Many describe me as a bit eccentric (which is fine I guess). In my free time, I like to listen to music, specially Rabindrasangeet and Bengali folk songs. I can sing okayish and have been known to sing awkwardly at strange places like the washroom......
 
 Other things about me which are probably not of much use......I use Arch, btw. For coding purposes, I mainly use Julia. I am a leftie. I don't have much interest in sports/politics (things people tend to discuss the most). And I really like to talk gibberish sometimes!
+
+<div class="centered-image">
+    <img src="/images/about.png" alt="About image">
+</div>
