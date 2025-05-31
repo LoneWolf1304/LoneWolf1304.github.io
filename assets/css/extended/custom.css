@@ -1,0 +1,11 @@
+.floating-image {
+    position: absolute;
+    left: 650px;  /* X coordinate */
+    top: -150px;   /* Y coordinate */
+    z-index: 10;
+    width: 500px; /* Optional: Control image size */
+}
+.post-content {
+    position: relative;
+    padding-top: 40px; /* Adjust as needed */
+}
