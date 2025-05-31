@@ -21,6 +21,6 @@
 /* Mobile */
 @media (max-width: 767px) {
   .responsive-positioned-image img {
-    width: 40px;
+    width: 150px;
   }
 }
