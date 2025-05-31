@@ -1,41 +1,26 @@
 .responsive-positioned-image {
-    position: relative;
-    margin: 2rem 0;
-    text-align: center; /* Center the image horizontally */
+  position: fixed; /* Stay at the same place even when scrolling */
+  top: 2.5rem;
+  right: 1rem;
+  z-index: 1000;
 }
 
 .responsive-positioned-image img {
-    max-width: 100%;
-    height: auto;
-    display: inline-block;
-    object-fit: contain;
+  width: 300px;
+  height: auto;
+  object-fit: contain;
 }
 
-/* Desktop positioning */
-@media (min-width: 992px) {
-    .responsive-positioned-image {
-        position: absolute;
-        left: 120%;  /* Use percentages instead of pixels */
-        top: 15%;
-        width: 60%; /* Control image size relative to screen */
-        transform: translate(-50%, -50%); /* Center the positioning */
-        z-index: 10;
-    }
+/* Tablet */
+@media (max-width: 991px) {
+  .responsive-positioned-image img {
+    width: 50px;
+  }
 }
 
-/* Tablet positioning */
-@media (max-width: 991px) and (min-width: 768px) {
-    .responsive-positioned-image {
-        float: right;
-        width: 50%;
-        margin: 1rem 0 1rem 2rem;
-    }
-}
-
-/* Mobile positioning */
+/* Mobile */
 @media (max-width: 767px) {
-    .responsive-positioned-image {
-        width: 80%;
-        margin: 1.5rem auto;
-    }
+  .responsive-positioned-image img {
+    width: 40px;
+  }
 }
