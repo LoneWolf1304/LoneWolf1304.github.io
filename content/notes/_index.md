@@ -18,7 +18,7 @@ Well, I am trying to make notes (work in progress...) to understand some topics 
 
 
 <ul>
-<a href="https://raw.githubusercontent.com/LoneWolf1304/Notes/main/Lie%20Algebra/main.pdf" target="_blank" rel="noopener">Group Theory</a>
+<a href="https://raw.githubusercontent.com/LoneWolf1304/Notes/main/Lie-Algebra/main.pdf" target="_blank" rel="noopener">Group Theory</a>
 </ul>
 
 
