@@ -5,7 +5,7 @@ draft = false
 Hi! I am Sagnik, presently in my fourth year of BS-MS at IISER Kolkata. I am a Physics major and interested in Theoretical Condensed Matter and Quantum Information. I also like some Math......but not with much rigour (huh, typical physicist tendency perhaps?). 
 
 
-I like to laugh a lot and have watched quite a few comedy series. Few of my favourite are Malcolm in the Middle, Arrested Development, Only Murders in the Building and anything with Philomena Cunk.
+I like to laugh a lot and have watched quite a few comedy series. Few of my favourite are Trial and Error, Malcolm in the Middle, Arrested Development, Only Murders in the Building and anything with Philomena Cunk.
 <div class="centered-image">
     <img src="/images/about.png" alt="About image">
 </div>
