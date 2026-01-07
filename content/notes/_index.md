@@ -9,6 +9,10 @@ Well, these are some of my personal notes (work in progress...) that I made to u
 </ul>
 
 <ul>
+<a href="https://raw.githubusercontent.com/LoneWolf1304/Notes/main/QIP/main.pdf" target="_blank" rel="noopener">Quantum Information Processing</a>
+</ul>
+
+<ul>
 <a href="https://raw.githubusercontent.com/LoneWolf1304/Notes/main/Tensor%20Analysis/main.pdf" target="_blank" rel="noopener">Tensor Calculus</a>
 </ul>
 
