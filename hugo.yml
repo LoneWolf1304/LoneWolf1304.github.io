@@ -1,6 +1,7 @@
 baseURL: "https://lonewolf1304.github.io/"
 languageCode: "en-us"
 theme: "PaperMod"
+author: "Sagnik Seth"
 enableEmoji: true
 title: "LoneWolf"
 canonifyURLs: true
