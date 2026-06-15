@@ -5,5 +5,118 @@
 &lt;/ul&gt;
 &lt;div class="centered-image"&gt;
 &lt;img src="https://lonewolf1304.github.io/images/contact.png" alt="About image"&gt;
-&lt;/div&gt;</description></item><item><title>Few Details about Me...</title><link>https://lonewolf1304.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lonewolf1304.github.io/about/</guid><description>&lt;p&gt;Hi! I am Sagnik, presently in my fourth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math&amp;hellip;&amp;hellip;but not with much rigour (huh, typical physicist tendency perhaps?).&lt;/p&gt;
-&lt;p&gt;I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Arrested Development and anything with Diane Morgan.&lt;/p&gt;</description></item></channel></rss>
+&lt;/div&gt;</description></item><item><title>Few Details about Me...</title><link>https://lonewolf1304.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lonewolf1304.github.io/about/</guid><description>&lt;p&gt;Hi! I am Sagnik, presently in my fifth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math&amp;hellip;&amp;hellip;but not with much rigour (huh, typical physicist tendency perhaps?).&lt;/p&gt;
+&lt;p&gt;I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Pushing Daisies, Arrested Development and anything with Diane Morgan.&lt;/p&gt;</description></item><item><title>Gallery</title><link>https://lonewolf1304.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lonewolf1304.github.io/gallery/</guid><description>&lt;p&gt;Here&amp;rsquo;s some nice pictures of IISER-K campus; a collection of moments when the sky, lighting, and my mood all happened to cooperate simultaneously!
+&lt;div class="slideshow-container" id="slideshow-0"&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene1.jpg" alt="scene1.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene10.jpg" alt="scene10.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene11.jpg" alt="scene11.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene12.jpg" alt="scene12.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene13.jpg" alt="scene13.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene2.jpg" alt="scene2.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene3.jpg" alt="scene3.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene4.jpg" alt="scene4.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene5.jpg" alt="scene5.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene6.jpg" alt="scene6.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene7.jpg" alt="scene7.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene8.jpg" alt="scene8.jpg"&gt;
+&lt;/div&gt;&lt;div class="mySlides fade"&gt;
+&lt;img src="https://lonewolf1304.github.io/gallery/scene9.jpg" alt="scene9.jpg"&gt;
+&lt;/div&gt;
+&lt;button class="prev-btn" aria-label="Previous Slide"&gt;&amp;#10094;&lt;/button&gt;
+&lt;button class="next-btn" aria-label="Next Slide"&gt;&amp;#10095;&lt;/button&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.slideshow-container {
+position: relative;
+max-width: 100%;
+margin: 2rem auto;
+overflow: hidden;
+border-radius: 8px;
+box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+aspect-ratio: 16 / 12;
+}
+.mySlides {
+display: none;
+width: 100%;
+height: 100%;
+}
+.mySlides img {
+width: 100%;
+height: 100%;
+display: block;
+object-fit: cover;
+object-position: center;
+}
+.prev-btn, .next-btn {
+cursor: pointer;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: auto;
+padding: 16px;
+color: white;
+font-weight: bold;
+font-size: 20px;
+transition: 0.3s ease;
+border: none;
+background-color: rgba(0, 0, 0, 0.4);
+user-select: none;
+z-index: 10;
+}
+.next-btn {
+right: 0;
+border-radius: 3px 0 0 3px;
+}
+.prev-btn {
+left: 0;
+border-radius: 0 3px 3px 0;
+}
+.prev-btn:hover, .next-btn:hover {
+background-color: rgba(0, 0, 0, 0.8);
+}
+.fade {
+animation: fadeAnim 0.5s ease-in-out;
+}
+@keyframes fadeAnim {
+from { opacity: 0.4; }
+to { opacity: 1; }
+}
+&lt;/style&gt;
+&lt;script&gt;
+(function() {
+const container = document.getElementById('slideshow-0');
+const slides = container.getElementsByClassName('mySlides');
+let slideIndex = 0;
+if (slides.length === 0) return;
+function showSlide(index) {
+if (index &gt;= slides.length) slideIndex = 0;
+if (index &lt; 0) slideIndex = slides.length - 1;
+for (let i = 0; i &lt; slides.length; i++) {
+slides[i].style.display = 'none';
+}
+slides[slideIndex].style.display = 'block';
+}
+container.querySelector('.prev-btn').addEventListener('click', () =&gt; {
+slideIndex--;
+showSlide(slideIndex);
+});
+container.querySelector('.next-btn').addEventListener('click', () =&gt; {
+slideIndex++;
+showSlide(slideIndex);
+});
+showSlide(slideIndex);
+})();
+&lt;/script&gt;
+As you can see, the campus looks way more heavenly in these pictures than it actually is! Well, the campus really is beautiful, and all it takes is a few lonely moments to find it.&lt;/p&gt;</description></item></channel></rss>
