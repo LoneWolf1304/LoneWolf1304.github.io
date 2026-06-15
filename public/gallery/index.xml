@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Galleries on LoneWolf</title>
+    <link>http://localhost:1313/gallery/</link>
+    <description>Recent content in Galleries on LoneWolf</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/gallery/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34;
+href=&#34;https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css&#34; /&gt;
+&lt;style&gt;
+.swiper {
+  width: 800px;
+  max-width: 100%;
+}
+
+.swiper-slide img {
+  width: 100%;
+  display: block;
+}
+&lt;/style&gt;
+&lt;div class=&#34;swiper&#34;&gt;
+  &lt;div class=&#34;swiper-wrapper&#34;&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;swiper-slide&amp;quot;&amp;gt;
+  &amp;lt;img src=&amp;quot;/images/scene1.jpg&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;swiper-slide&amp;quot;&amp;gt;
+  &amp;lt;img src=&amp;quot;/images/scene2.jpg&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div class=&amp;quot;swiper-slide&amp;quot;&amp;gt;
+  &amp;lt;img src=&amp;quot;/images/scene3.jpg&amp;quot;&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+new Swiper(&#39;.swiper&#39;, {
+  loop: false,
+  pagination: {
+    el: &#39;.swiper-pagination&#39;
+  }
+});
+&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>

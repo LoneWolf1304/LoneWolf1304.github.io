@@ -27,8 +27,147 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi! I am Sagnik, presently in my fourth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math&amp;hellip;&amp;hellip;but not with much rigour (huh, typical physicist tendency perhaps?).&lt;/p&gt;
-&lt;p&gt;I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Arrested Development and anything with Diane Morgan.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi! I am Sagnik, presently in my fifth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math&amp;hellip;&amp;hellip;but not with much rigour (huh, typical physicist tendency perhaps?).&lt;/p&gt;
+&lt;p&gt;I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Pushing Daisies, Arrested Development and anything with Diane Morgan.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s some nice pictures of IISER-K campus; a collection of moments when the sky, lighting, and my mood all happened to cooperate simultaneously!
+&lt;div class=&#34;slideshow-container&#34; id=&#34;slideshow-0&#34;&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene1.jpg&#34; alt=&#34;scene1.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene10.jpg&#34; alt=&#34;scene10.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene11.jpg&#34; alt=&#34;scene11.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene12.jpg&#34; alt=&#34;scene12.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene13.jpg&#34; alt=&#34;scene13.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene2.jpg&#34; alt=&#34;scene2.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene3.jpg&#34; alt=&#34;scene3.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene4.jpg&#34; alt=&#34;scene4.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene5.jpg&#34; alt=&#34;scene5.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene6.jpg&#34; alt=&#34;scene6.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene7.jpg&#34; alt=&#34;scene7.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene8.jpg&#34; alt=&#34;scene8.jpg&#34;&gt;
+    &lt;/div&gt;&lt;div class=&#34;mySlides fade&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/gallery/scene9.jpg&#34; alt=&#34;scene9.jpg&#34;&gt;
+    &lt;/div&gt;
+  &lt;button class=&#34;prev-btn&#34; aria-label=&#34;Previous Slide&#34;&gt;&amp;#10094;&lt;/button&gt;
+  &lt;button class=&#34;next-btn&#34; aria-label=&#34;Next Slide&#34;&gt;&amp;#10095;&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+   
+  .slideshow-container {
+    position: relative;
+    max-width: 100%;
+    margin: 2rem auto;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    
+     
+    aspect-ratio: 16 / 12; 
+  }
+  .mySlides {
+    display: none;
+    width: 100%;
+    height: 100%;
+  }
+  .mySlides img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    
+     
+    object-fit: cover;
+    object-position: center; 
+  }
+   
+
+   
+  .prev-btn, .next-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: auto;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.3s ease;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.4);
+    user-select: none;
+    z-index: 10;
+  }
+  .next-btn {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .prev-btn {
+    left: 0;
+    border-radius: 0 3px 3px 0;
+  }
+  .prev-btn:hover, .next-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+   
+  .fade {
+    animation: fadeAnim 0.5s ease-in-out;
+  }
+  @keyframes fadeAnim {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+  (function() {
+    const container = document.getElementById(&#39;slideshow-0&#39;);
+    const slides = container.getElementsByClassName(&#39;mySlides&#39;);
+    let slideIndex = 0;
+
+    if (slides.length === 0) return;
+
+    function showSlide(index) {
+      if (index &gt;= slides.length) slideIndex = 0;
+      if (index &lt; 0) slideIndex = slides.length - 1;
+      
+      for (let i = 0; i &lt; slides.length; i++) {
+        slides[i].style.display = &#39;none&#39;;
+      }
+      slides[slideIndex].style.display = &#39;block&#39;;
+    }
+
+    container.querySelector(&#39;.prev-btn&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+      slideIndex--;
+      showSlide(slideIndex);
+    });
+
+    container.querySelector(&#39;.next-btn&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+      slideIndex++;
+      showSlide(slideIndex);
+    });
+
+    
+    showSlide(slideIndex);
+  })();
+&lt;/script&gt;
+
+As you can see, the campus looks way more heavenly in these pictures than it actually is!  Well, the campus really is beautiful, and all it takes is a few lonely moments to find it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 title = 'Few Details about Me...'
 draft = false
 +++
-Hi! I am Sagnik, presently in my fourth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math......but not with much rigour (huh, typical physicist tendency perhaps?). 
+Hi! I am Sagnik, presently in my fifth year of BS-MS at IISER Kolkata. I am a Physics major and interested in chaos in many-body systems and its characterisation using RMT. I also like some Math......but not with much rigour (huh, typical physicist tendency perhaps?). 
 
 
-I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Arrested Development and anything with Diane Morgan.
+I like to laugh a lot and have watched quite a few comedy series. Few of my favourites (which are quite underrated) are Trial and Error, Malcolm in the Middle, Pushing Daisies, Arrested Development and anything with Diane Morgan.
 <div class="centered-image">
     <img src="/images/about.png" alt="About image">
 </div>
